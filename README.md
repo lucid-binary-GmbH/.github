@@ -1,2 +1,1 @@
-# .github
-README for 
+![cover image](assets/cover.png)

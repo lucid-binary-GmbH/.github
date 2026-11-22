@@ -1,6 +1,6 @@
 # Writing rules for system documentation
 
-status: proposed
+status: agreed
 owner: Lars (@larswgarling)
 last reviewed: 2026-11-22
 
